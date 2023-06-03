@@ -27,4 +27,4 @@ Week 2A: U-Net
 
 Week 2B: Pix2Pix
 
-Week 3: 
+Week 3: CycleGAN
