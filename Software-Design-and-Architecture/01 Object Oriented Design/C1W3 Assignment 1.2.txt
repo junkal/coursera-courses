@@ -1,0 +1,29 @@
+title Capstone Assignment 1.2
+
+actor #blue:1.0 Person
+
+Person->Application UI:Add Item Action
+Application UI->AddItemActivity:onCreate(savedInstanceState)
+activate AddItemActivity
+AddItemActivity->ItemList:loadItems(context)
+activate ItemList
+ItemList-->AddItemActivity:
+AddItemActivity-->Application UI:
+Person->Application UI:Save Item Action
+
+Application UI->AddItemActivity: saveItem(view)
+
+AddItemActivity->Dimension:new Dimension (length, width, height)
+activate Dimension
+
+AddItemActivity->Item:new Item (title,maker,description,dimensions,image,id)
+activate Item
+
+AddItemActivity->ItemList:addItem(item)
+
+ItemList->Item:add(item)
+Item-->ItemList:
+ItemList-->AddItemActivity:
+AddItemActivity->ItemList:saveItems(context)
+ItemList-->AddItemActivity:
+AddItemActivity-->Application UI:
