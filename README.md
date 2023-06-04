@@ -8,4 +8,6 @@
 
 - [**AWS Computer Vision Getting Started with GluonCV**](https://github.com/junkal/coursera-courses/tree/main/AWS_Computer_Vision-Getting_Started_with_GluonCV) *[completed 12 April 2020]*
 
+- [**Machine Learning Foundations: A Case Study Approach**]() *[completed 19 Jan 2017]*
+
 
