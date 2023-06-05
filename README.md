@@ -10,6 +10,8 @@
 
 - [**Software Product Management**](https://github.com/junkal/coursera-courses/tree/main/Software-Product-Management) *[completed 30 July 2019]*
 
+- [**Agile Development**](https://github.com/junkal/coursera-courses/tree/main/Agile%20Development) *[completed 30 June 2019]*
+
 - [**Machine Learning Foundations: A Case Study Approach**]() *[completed 19 Jan 2017]*
 
 
