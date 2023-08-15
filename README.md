@@ -1,5 +1,7 @@
 # Collection of completed Coursera Courses
 
+- [**An Introduction to Programming the Internet of Things (IOT) Specialization**](https://github.com/junkal/coursera-courses/tree/main/An%20Introduction%20to%20Programming%20the%20Internet%20of%20Things%20(IOT)%20Specialization)*[completed XX August 2023]*
+
 - [**Software Design and Architecture Specialisation**](https://github.com/junkal/coursera-courses/tree/main/Software-Design-and-Architecture) *[completed 26 June 2023]*
 
 - [**Generative Adverserial Network Specialisation**](https://github.com/junkal/coursera-courses/tree/main/Build-Basic-Generative-Adversarial-Networks-(GANs)) *[completed 13 May 2023]* 
