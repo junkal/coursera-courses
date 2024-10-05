@@ -1,8 +1,10 @@
 # Collection of completed Coursera Courses
 
-- [**Secure Coding Practices**](https://github.com/junkal/coursera-courses/tree/main/Secure%20Coding%20Practices)*[completed In Progress]*
+- [**DeepLearning.AI Data Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/data-engineering)*[In Progress]*
+  
+- [**Secure Coding Practices**](https://github.com/junkal/coursera-courses/tree/main/Secure%20Coding%20Practices)*[In Progress]*
 
-- [**Software Testing and Automation Specialisation**](https://github.com/junkal/coursera-courses/tree/main/Software%20Testing%20and%20Automation)*[completed In Progress]*
+- [**Software Testing and Automation Specialisation**](https://github.com/junkal/coursera-courses/tree/main/Software%20Testing%20and%20Automation)*[In Progress]*
 
 - [**An Introduction to Programming the Internet of Things (IOT) Specialization**](https://github.com/junkal/coursera-courses/tree/main/An%20Introduction%20to%20Programming%20the%20Internet%20of%20Things%20(IOT)%20Specialization)*[completed 22 August 2023]*
 
