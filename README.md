@@ -1,5 +1,7 @@
 # Collection of completed Coursera Courses
 
+- [**Generative AI for Software Development Skill Certificate**](https://www.coursera.org/professional-certificates/generative-ai-for-software-development/)*[In Progress]*
+  
 - [**DeepLearning.AI Data Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/data-engineering)*[In Progress]*
   
 - [**Secure Coding Practices**](https://github.com/junkal/coursera-courses/tree/main/Secure%20Coding%20Practices)*[In Progress]*
