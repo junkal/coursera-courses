@@ -1,6 +1,6 @@
 # Collection of completed Coursera Courses
 
-- [**Generative AI for Software Development Skill Certificate**](https://www.coursera.org/professional-certificates/generative-ai-for-software-development/)*[In Progress]*
+- [**Generative AI for Software Development Skill Certificate**](https://www.coursera.org/professional-certificates/generative-ai-for-software-development/)*[Completed 04 January 2025]*
   
 - [**DeepLearning.AI Data Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/data-engineering)*[In Progress]*
   
